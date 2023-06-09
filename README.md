@@ -20,7 +20,7 @@ To run this project, you need to have the following software installed on your s
 
 
 ## Installation
-Follow the steps below to install and set up the Discord clone responsive website:
+Follow the steps below to install and set up the Razorpay clone responsive website:
 
 1. Clone the repository to your local machine:
 ``` https://github.com/subham-paul/Razorpay-Clone.git ```
